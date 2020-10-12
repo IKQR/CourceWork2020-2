@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnimalPlanet.DAL.Entities\AnimalPlanet.DAL.Entities.csproj" />
+    <ProjectReference Include="..\AnimalPlanet.Models\AnimalPlanet.Models.csproj" />
+  </ItemGroup>
+
+</Project>

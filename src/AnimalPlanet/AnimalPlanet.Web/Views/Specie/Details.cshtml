@@ -1,0 +1,47 @@
+@model AnimalPlanet.Models.Models.SpecieViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Specie</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Denomination
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Denomination)
+        </dd>
+        <dt class="col-sm-2">
+            Genus
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GenusDenomination)
+        </dd>
+        <dt class="col-sm-2">
+            Reserves
+        </dt>
+        <dd class="col-sm-10">
+            @(Model.Reserves.Count > 0 ? String.Join(", ", Model.Reserves) : "None")
+        </dd>
+        <dt class="col-sm-2">
+            Natural Areas
+        </dt>
+        <dd class="col-sm-10">
+            @(Model.NaturalAreas.Count > 0 ? String.Join(", ", Model.NaturalAreas) : "None")
+        </dd>
+        <dt class="col-sm-2">
+            Description
+        </dt>
+        <dd class="col-sm-10">
+            <p>@Html.DisplayFor(model => model.Description)</p>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

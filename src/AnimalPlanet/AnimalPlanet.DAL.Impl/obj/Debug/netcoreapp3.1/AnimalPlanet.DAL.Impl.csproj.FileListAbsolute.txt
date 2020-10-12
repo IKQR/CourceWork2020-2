@@ -1,0 +1,16 @@
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.deps.json
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.AssemblyInfoInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.AssemblyInfo.cs
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Entities.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Entities.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.csprojAssemblyReference.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.csproj.CopyComplete
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\obj\Debug\netcoreapp3.1\AnimalPlanet.DAL.Impl.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Abstract.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Abstract.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.Models.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Impl\bin\Debug\netcoreapp3.1\AnimalPlanet.Models.pdb

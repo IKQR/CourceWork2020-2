@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJzLNQlSJ07gSizqg2ZWwtkG7X4JYtJ4xprZ3J2dpVxYTsMIvU/ypdExVfHoCc1JOP4ROLeoog9yVh22XtjDcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilya\\Documents\\KPI\\CourceWork2020-2\\src\\AnimalPlanet\\AnimalPlanet.Configuration\\AnimalPlanet.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

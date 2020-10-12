@@ -1,0 +1,8 @@
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\bin\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.deps.json
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\bin\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\bin\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\obj\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.AssemblyInfoInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\obj\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.AssemblyInfo.cs
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\obj\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\obj\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.DAL.Entities\obj\Release\netcoreapp3.1\AnimalPlanet.DAL.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.deps.json
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.csprojAssemblyReference.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.AssemblyInfoInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.AssemblyInfo.cs
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Entities.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.Models.dll
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.Models.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\bin\Debug\netcoreapp3.1\AnimalPlanet.DAL.Entities.pdb
+C:\Users\Ilya\Documents\KPI\CourceWork2020-2\src\AnimalPlanet\AnimalPlanet.Bl.Abstract\obj\Debug\netcoreapp3.1\AnimalPlanet.Bl.Abstract.csproj.CopyComplete

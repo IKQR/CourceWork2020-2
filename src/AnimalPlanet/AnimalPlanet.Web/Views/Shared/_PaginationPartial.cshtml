@@ -1,0 +1,91 @@
+@using Microsoft.AspNetCore.Routing
+@model AnimalPlanet.Models.Pagination.PaginationModel
+@inject AnimalPlanet.Configuration.PaginationConfiguration Configuration
+
+<nav area-label="Pagination">
+    <ul class="pagination">
+        @{
+            void RenderButton(string text, int number, bool isDisabled = false)
+            {
+                RouteValueDictionary values = new RouteValueDictionary { ["page"] = number };
+                <li class="page-item @(isDisabled ? "disabled" : "") @(number == Model.PageNumber ? "active" : "")">
+                    <a href="@(!isDisabled ? Url.Action(@Model.Action, values) : "#")" class="page-link">
+                        @text
+                    </a>
+                </li>
+            }
+        }
+
+        @{
+            int width = Configuration.Width;
+            int toLast = Model.Total - Model.PageNumber;
+            int toFirst = Model.PageNumber;
+
+            int startFrom = Model.PageNumber - width + 1 + (toLast > width / 2 ? width / 2 : toLast);
+            int stopOn = startFrom + width - 1 + (startFrom <= 0 ? startFrom * -1 + 1 : 0);
+
+            if (startFrom <= 0)
+            {
+                startFrom = 1;
+            }
+
+            if (stopOn > Model.Total)
+            {
+                stopOn = Model.Total;
+            }
+
+        }
+
+
+        @if (Model.HasPrevious)
+        {
+            RenderButton("<", Model.PageNumber - 1);
+        }
+        else
+        {
+            RenderButton("<", Model.PageNumber - 1, true);
+        }
+
+
+        @if (startFrom > 1)
+        {
+            RenderButton("1", 1);
+            if (startFrom != 2)
+            {
+                RenderButton("...", 0, true);
+            }
+        }
+
+        @if (startFrom != stopOn)
+        {
+            for (int num = startFrom; num <= stopOn; num++)
+            {
+                RenderButton($"{num}", num);
+            }
+        }
+        else
+        {
+            RenderButton($"{stopOn}", stopOn);
+        }
+
+        @if (stopOn < Model.Total - 1)
+        {
+            RenderButton("...", 0, true);
+        }
+
+        @if (stopOn != @Model.Total)
+        {
+            RenderButton($"{Model.Total}", Model.Total);
+        }
+
+
+        @if (Model.HasNext)
+        {
+            RenderButton(">", Model.PageNumber + 1);
+        }
+        else
+        {
+            RenderButton(">", Model.PageNumber + 1, true);
+        }
+    </ul>
+</nav>
